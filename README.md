@@ -1,13 +1,17 @@
 # Scrabble
 ### Software Engineering Project 2, UCD BSc. Computer Science 2nd Year
-Implemented the board game Scrabble (2 player) in Java and JavaFX in a team of *three* over *five* sprints.
+Implemented the board game Scrabble (2 player) in Java and JavaFX in a team of *three* over *five* sprints.  
+![Board](Captures/board1.png)   
 
 ## Contents
 ### Scrabble Bots
-This is a simulation. When the program is run, two bots face off in a Scrabble match and you can watch them play on the Scrabble board.
+This is a simulation. When the program is run, two bots face off in a Scrabble match and you can watch them play on the Scrabble board.  
+Below is the bot playing against itself:
+![Board](Captures/bot.png)
 
 ### Scrabble Two Player
-This program, when run, allows you to play two player Scrabble.
+This program, when run, allows you to play two player Scrabble as show below:
+![Board](Captures/board2.png)
 
 ## Getting Started
 - Ensure you have Java 13, if you do not install JDK 13 from [here.](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html)  
